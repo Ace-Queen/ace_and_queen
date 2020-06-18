@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
-title: Ace and Queen
-description: Information on the gaming clan Ace and Queen
+title: Ace & Queen
+description: an online gaming clan
+
+show_downloads: false
+github:
+  is_project_page: false
