@@ -2,6 +2,8 @@ theme: jekyll-theme-cayman
 title: Ace & Queen
 description: an online gaming clan
 
+google_analytics: UA-170797713-1
+
 show_downloads: false
 github:
   is_project_page: false
